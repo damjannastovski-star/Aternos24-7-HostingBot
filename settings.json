@@ -30,11 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+      "messages":
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -75,7 +71,7 @@
   },
   "beds": {
     "pick-up-day": true,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
