@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "PuppySMP-PSfL.aternos.me",
-    "port": 32059,
+    "port":32059,
     "version": "",
     "try-creative": false
   },
